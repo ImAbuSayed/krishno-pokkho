@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/krishno-pokkho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Krishno Pokkho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/krishno-pokkho/) |
+| **Get License** | [Obtain a Music License for Krishno Pokkho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/krishno-pokkho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কৃষ্ণপক্ষের আঁধার রাতে, মাতাল করা এই হাওয়ায়.. মাতাল হাওয়ায়..
+> বিষাক্ত এক প্রেমের নেশায়, হৃদয় আমার তোমায় চায়
+> রক্তে আমার আগুন জ্বলে, তোমার অবুঝ ইশারায়
+> বুকের ভেতর জমছে তুফান, গোপন কোনো কামনায়
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
